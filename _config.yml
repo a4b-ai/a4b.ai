@@ -39,6 +39,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      sitemap: false
       _options:
         content:
           width: 1500
@@ -55,6 +56,18 @@ defaults:
       path: ""
     values:
       layout: "page"
+  - scope:
+      path: "blog"
+    values:
+      sitemap: false
+  - scope:
+      path: "contact-success"
+    values:
+      sitemap: false
+  - scope:
+      path: "about"
+    values:
+      sitemap: false
   - scope:
       path: "index.html"
     values:
