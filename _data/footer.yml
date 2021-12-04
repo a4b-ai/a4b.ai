@@ -9,10 +9,10 @@
     link: /contact/
 - links:
   - name: Login
-    link: /
+    link: https://app.a4b.ai/login
     new_window: true
   - name: Sign Up
-    link: /
+    link: https://app.a4b.ai/login
     new_window: true
   # - name: Docs
   #   link: /
