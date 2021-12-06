@@ -5,7 +5,7 @@ title: A4B
 url: "https://www.a4b.ai"
 baseurl:
 google_analytics_key:  "G-DXHW63STQF"
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: "AIzaSyABF3t81dKT55C4Xmp-PC3d38R6z-07ZZc"
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
