@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.a4b.ai/sitemap.xml
